@@ -2,10 +2,9 @@
 algorithm problems
 
 minimum SubTree: 
-Input: {1,-5,2,1,2,-4,-5}
-Output:1
-Explanation:
-The tree is look like this:
+    Input: {1,-5,2,1,2,-4,-5}
+    Output:1
+    The tree is look like this:
 
                                  1
                                /   \
@@ -13,7 +12,7 @@ The tree is look like this:
                              / \   /  \                           
                             0   2 -4  -5
                             
-The sum of whole tree is minimum, so return the root: 1. 
+    The sum of whole tree is minimum, so return the root: 1. 
 
 
 closest bst: 
